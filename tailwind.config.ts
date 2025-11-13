@@ -57,6 +57,13 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        ruby: {
+          deep: "hsl(var(--ruby-deep))",
+          dark: "hsl(var(--ruby-dark))",
+          medium: "hsl(var(--ruby-medium))",
+          bright: "hsl(var(--ruby-bright))",
+          glow: "hsl(var(--ruby-glow))",
+        },
       },
       borderRadius: {
         lg: "var(--radius)",
